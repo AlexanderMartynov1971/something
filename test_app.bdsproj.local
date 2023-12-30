@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023.11.02 10:55:41.751.pas,C:\Users\OLGA\Documents\Borland Studio Projects\Unit4.pas=D:\WORK\TEST\dm_Data.pas</Transaction>
+    <Transaction>2023.11.02 10:55:41.751.dfm,C:\Users\OLGA\Documents\Borland Studio Projects\Unit4.dfm=D:\WORK\TEST\dm_Data.dfm</Transaction>
+    <Transaction>2023.11.02 10:56:26.606.pas,C:\Users\OLGA\Documents\Borland Studio Projects\Unit3.pas=D:\WORK\TEST\fm_main.pas</Transaction>
+    <Transaction>2023.11.02 10:56:26.606.dfm,C:\Users\OLGA\Documents\Borland Studio Projects\Unit3.dfm=D:\WORK\TEST\fm_main.dfm</Transaction>
+    <Transaction>2023.11.02 10:56:49.323.bdsproj,C:\Users\OLGA\Documents\Borland Studio Projects\Project3.bdsproj=D:\WORK\TEST\test_app.bdsproj</Transaction>
+    <Transaction>2023.11.02 12:01:19.049.pas,D:\WORK\TEST\fm_main.pas=D:\WORK\TEST\fm_maintest.pas</Transaction>
+    <Transaction>2023.11.02 12:01:19.049.dfm,D:\WORK\TEST\fm_main.dfm=D:\WORK\TEST\fm_maintest.dfm</Transaction>
+    <Transaction>2023.11.04 07:14:13.013.bdsproj,D:\WORK\TEST\test_app.bdsproj=D:\WORK\TEST\test_app.bdsproj</Transaction>
+    <Transaction>2023.11.05 11:47:34.777.bdsproj,D:\WORK\TEST\test_app.bdsproj=D:\WORK\TEST\test_app.bdsproj</Transaction>
+    <Transaction>2023.11.05 11:59:24.152.pas,D:\WORK\TEST\Unit1.pas=D:\WORK\TEST\fm_TestForm.pas</Transaction>
+    <Transaction>2023.11.05 11:59:24.152.dfm,D:\WORK\TEST\Unit1.dfm=D:\WORK\TEST\fm_TestForm.dfm</Transaction>
+    <Transaction>2023.12.13 09:46:14.287.bdsproj,D:\WORK\TEST\test_app.bdsproj=D:\WORK\TEST\test_app.bdsproj</Transaction>
+    <Transaction>2023.12.16 14:15:08.507.bdsproj,D:\WORK\TEST\test_app.bdsproj=D:\WORK\TEST\test_app.bdsproj</Transaction>
+    <Transaction>2023.12.22 09:28:28.843.pas,D:\WORK\TEST\Unit1.pas=D:\WORK\TEST\fm_Camera.pas</Transaction>
+    <Transaction>2023.12.22 09:28:28.843.dfm,D:\WORK\TEST\Unit1.dfm=D:\WORK\TEST\fm_Camera.dfm</Transaction>
+    <Transaction>2023.12.22 15:13:42.455.pas,D:\WORK\TEST\Unit1.pas=D:\WORK\TEST\uThread.pas</Transaction>
+    <Transaction>2023.12.25 10:36:58.286.pas,D:\WORK\TEST\fm_Foto.pas=</Transaction>
+    <Transaction>2023.12.25 10:36:58.286.dfm,D:\WORK\TEST\fm_Foto.dfm=</Transaction>
+  </Transactions>
+	<IPServerDescMap></IPServerDescMap>
+	<StarTeamShortcuts>; 1; 0; False; 0; -1; </StarTeamShortcuts>
+	<StarTeamMiscUserData></StarTeamMiscUserData>
+</BorlandProject>
